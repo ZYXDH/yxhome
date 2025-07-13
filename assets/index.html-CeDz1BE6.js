@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./app-BDO_dB0Y.js";const a={};function r(c,n){return o(),t("div")}const s=e(a,[["render",r]]),i=JSON.parse('{"path":"/home/","title":"","lang":"en-US","frontmatter":{"title":"","sidebar":true,"blog":{"type":"type","key":"home"},"layout":"Home"},"headers":[],"git":{},"filePathRelative":null,"excerpt":""}');export{s as comp,i as data};
